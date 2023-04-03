@@ -6,4 +6,4 @@
 
 [**Project Prep #3: GITHUB Organization & Project Mangement Tool**](https://github.com/Mac-s-PC/Project-Prep-Documents/blob/main/Project%20Prep%20%233%20GitHub%20Organization%20and%20PM%20Tooling.pdf) - Discusses deliverables, cooperation, conflict, communications, and work plans
 
-**Project Prep #4: Team Agreement** - Discusses deliverables, cooperation, conflict, communications, and work plans
+[**Project Prep #4: Map Project Requirements**]() - Management of project deliverables, system diagrams, and SOPs 
